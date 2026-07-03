@@ -1,3 +1,4 @@
+Content is user-generated and unverified.
 import logging
 import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
