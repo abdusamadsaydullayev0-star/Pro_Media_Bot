@@ -14,7 +14,7 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 from datetime import datetime
 import os
 
-BOT_TOKEN = "8708467547:AAE427mHcyo_tHO2CMwxc7PnEM1ErGWi4Fs"
+BOT_TOKEN = "8708467547:AAG2SM-aNDgFEhCSjKurDB3YHXmWtcYB3Cs"
 ADMIN_ID = 8340818638
 
 logging.basicConfig(level=logging.INFO)
